@@ -1,0 +1,5291 @@
+
+         FRAME: 1
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: 0, 0
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 2
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: 0, 0
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 3
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 4
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 5
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 6
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 7
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 8
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 9
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 10
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 11
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 12
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 13
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 14
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 15
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 16
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 17
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 18
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 19
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 20
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 21
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 22
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 23
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 24
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 25
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 26
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 27
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 28
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 29
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 30
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 31
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 32
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 33
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 34
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 35
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 36
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 37
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 38
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 39
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 40
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 41
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 42
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 43
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 44
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 45
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 46
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 47
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 48
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 49
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 50
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 51
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 52
+SnakeHead X and Y: (-16, 5.4)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: False
+HasGameStarted: False
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, 0
+Snake Part 1 x and y: (-26.6, 5.4)
+
+         FRAME: 53
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, 5.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 54
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 55
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 56
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 57
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 58
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 59
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 60
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 61
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 62
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 63
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 64
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 65
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 66
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 67
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 68
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 69
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 70
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 71
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 72
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 73
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 74
+SnakeHead X and Y: (-16, -5.2)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, 5.4)
+
+         FRAME: 75
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -5.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 76
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 77
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 78
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 79
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 80
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 81
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 82
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 83
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 84
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 85
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 86
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 87
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 88
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 89
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 90
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 91
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 92
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 93
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 94
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 95
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 96
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 97
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 98
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 99
+SnakeHead X and Y: (-16, -15.8)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -5.2)
+
+         FRAME: 100
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -15.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 101
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 102
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 103
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 104
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 105
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 106
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 107
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 108
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 109
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 110
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 111
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 112
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 113
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 114
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 115
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 116
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 117
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 118
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 119
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 120
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 121
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 122
+SnakeHead X and Y: (-16, -26.4)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -15.8)
+
+         FRAME: 123
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -26.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 124
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 125
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 126
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 127
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 128
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 129
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 130
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 131
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 132
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 133
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 134
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 135
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 136
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 137
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 138
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 139
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 140
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 141
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 142
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 143
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 144
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 145
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 146
+SnakeHead X and Y: (-16, -37)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -26.4)
+
+         FRAME: 147
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -37
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 148
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 149
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 150
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 151
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 152
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 153
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 154
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 155
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 156
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 157
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 158
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 159
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 160
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 161
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 162
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 163
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 164
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 165
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 166
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 167
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 168
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 169
+SnakeHead X and Y: (-16, -47.6)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -37)
+
+         FRAME: 170
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -47.6
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 171
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 172
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 173
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 174
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 175
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 176
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 177
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 178
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 179
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 180
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 181
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 182
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 183
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 184
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 185
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 186
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 187
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 188
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 189
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 190
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 191
+SnakeHead X and Y: (-16, -58.2)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -47.6)
+
+         FRAME: 192
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -58.2
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 193
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 194
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 195
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 196
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 197
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 198
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 199
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 200
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 201
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 202
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 203
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 204
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 205
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 206
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 207
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 208
+SnakeHead X and Y: (-16, -68.8)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -58.2)
+
+         FRAME: 209
+SnakeHead X and Y: (-16, -79.39999)
+Snake Head Previous X and Y: -16, -68.8
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 210
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.39999
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 211
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 212
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 213
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 214
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 215
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 216
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 217
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 218
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 219
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 220
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 221
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 222
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 223
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 224
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 225
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 226
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 227
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 228
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 229
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 230
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -68.8)
+
+         FRAME: 231
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: True
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 232
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 233
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 234
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 235
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 236
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 237
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 238
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 239
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 240
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 241
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 242
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 243
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 244
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 245
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 246
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 247
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 248
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 249
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 250
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 251
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 252
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 253
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 254
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 255
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 256
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 257
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 258
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 259
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 260
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 261
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 262
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 263
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 264
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 265
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 266
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 267
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 268
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 269
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 270
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 271
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 272
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 273
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 274
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 275
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 276
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 277
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 278
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 279
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 280
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 281
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 282
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 283
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 284
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 285
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 286
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 287
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 288
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 289
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 290
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 291
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 292
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 293
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 294
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 295
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 296
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 297
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 298
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 299
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 300
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 301
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 302
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 303
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 304
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 305
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 306
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 307
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 308
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 309
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 310
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 311
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 312
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 313
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 314
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 315
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 316
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 317
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 318
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 319
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 320
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 321
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 322
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 323
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 324
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 325
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 326
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 327
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 328
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 329
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 330
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 331
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 332
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 333
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 334
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 335
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 336
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 337
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 338
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 339
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 340
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 341
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 342
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 343
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 344
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 345
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 346
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 347
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 348
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 349
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 350
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 351
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 352
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 353
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 354
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 355
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 356
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 357
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 358
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 359
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 360
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 361
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 362
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 363
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 364
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 365
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 366
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 367
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 368
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 369
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 370
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 371
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 372
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 373
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 374
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 375
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 376
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 377
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 378
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 379
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 380
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 381
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 382
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 383
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 384
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 385
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 386
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 387
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 388
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 389
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 390
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 391
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 392
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 393
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 394
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 395
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 396
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 397
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 398
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 399
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 400
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 401
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 402
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 403
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 404
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 405
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 406
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 407
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 408
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 409
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 410
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 411
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 412
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 413
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 414
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 415
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 416
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 417
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 418
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 419
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 420
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 421
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 422
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 423
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 424
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 425
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 426
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 427
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 428
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 429
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 430
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 431
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 432
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 433
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 434
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 435
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 436
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 437
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 438
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 439
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 440
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 441
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 442
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 443
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 444
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 445
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 446
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 447
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 448
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 449
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 450
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 451
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 452
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 453
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 454
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 455
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 456
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 457
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 458
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 459
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 460
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 461
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 462
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 463
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 464
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 465
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 466
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 467
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 468
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 469
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 470
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 471
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 472
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 473
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 474
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 475
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 476
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 477
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 478
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 479
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 480
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)
+
+         FRAME: 481
+SnakeHead X and Y: (-16, -79.4)
+Snake Head Previous X and Y: -16, -79.4
+IsGameRunning: False
+HasGameStarted: True
+Speed: 0.4
+Apple X and Y: 16.2, -68.50001
+Length: 2
+Direction X and Y: 0, Down
+Snake Part 1 x and y: (-16, -79.4)

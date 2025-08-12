@@ -1,1 +1,1 @@
-# Windows-Linux-Snake
+# Snake
